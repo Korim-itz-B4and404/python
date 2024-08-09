@@ -1,2 +1,2 @@
-import fuck.py
+import fuck
 fuck.____Main___()
